@@ -1,6 +1,7 @@
 <template>
   <div>
     <comp-2 />
+    <div>just to push today</div>
   </div>
 </template>
 
